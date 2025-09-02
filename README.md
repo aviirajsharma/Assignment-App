@@ -67,10 +67,11 @@ This is an Android application developed as part of a technical assignment. The 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/RecipeSearchApp.git
+   git clone https://github.com/aviirajsharma/Assignment1.git
    ```
 2. Open in Android Studio
 3. Sync the project
 4. Run the app
+
 
 
