@@ -4,6 +4,10 @@
 
 This is an Android application developed as part of a technical assignment. The app demonstrates modern Android development using Kotlin, Jetpack Compose, Retrofit, Room, Hilt, Coil, and MVVM architecture pattern.
 
+### Download APK
+
+[⬇️ Download RecipeApp-v1.0 APK](https://raw.githubusercontent.com/aviirajsharma/Assignment-App/main/apk/RecipeApp-v1.0.apk)
+
 ## Screenshots
 
 ### App Screenshots
@@ -72,6 +76,7 @@ This is an Android application developed as part of a technical assignment. The 
 2. Open in Android Studio
 3. Sync the project
 4. Run the app
+
 
 
 
