@@ -49,7 +49,7 @@ This is an Android application developed as part of a technical assignment. The 
 
 <tr>
   <td align="center">
-    <a href="https://www.youtube.com/shorts/V4rCMos8Rc0">
+    <a href="https://www.youtube.com/shorts/BjQsh-OYJUQ">
       🎥 Watch App Demo on YouTube
     </a>
     <br>
@@ -72,6 +72,7 @@ This is an Android application developed as part of a technical assignment. The 
 2. Open in Android Studio
 3. Sync the project
 4. Run the app
+
 
 
 
